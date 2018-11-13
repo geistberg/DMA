@@ -1,0 +1,4 @@
+Targets outside 40ft cannot be seen.
+Targets outside 30ft have cover.
+Targets outside 20 ft have partial cover.
+Trees go up high into the sky

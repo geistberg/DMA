@@ -1,0 +1,26 @@
+Limits
+	Each Round will be limited to a specific time. ( 20 minutes )
+	Each Combatants should be the same level and have equivelent gear ( 3rd level DND characters with basic starting equipment )
+
+Board / Table / Game Area
+	The Arena is a set size with Random Locations and Environmental factors. ( 1 foot radius circle )
+	One inch of the board is 5 ft of character movement.
+	The board is divided up in a clock, the position of the game master is 12:00.
+	The initiative order is rolled before character placement.
+		Critical Success on initiative allows a surprise round.
+		Critical Failure on initiative starts player prone.
+	Each Player roll a d12, that hour area border is where they start the game.
+
+Rules 
+	Character Death - once you hit 0 HP you are dead, there are no dying saves.
+	Only the Character that deals the final point of damage gets the kill point.
+	If there is one character left alive within the specific time, they are the winner.
+	At the end of the specific time, any living characters compare stats based on the following to determine the victor
+
+Important stats, to determine victor if there is a draw.
+	1 Most Kill Shots
+	2 Most Damage caused
+	3 Most Health restored
+	4 Least Health lost
+	5 Most Health Remaining
+	6 Highest d6 roll
