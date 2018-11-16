@@ -1,1 +1,8 @@
-Full and unobstructed vision with no limitation or environment. Spectators watch the combat from the stands. Critical rolls (success and failure) are rewarded with potions tossed from the sidelines. This arena is only one foot in radius. The stands are an additional 3 inches on each side. If a player goes into the stands they are attacked by the Grand Magistrates. The Grand Magistrates teleports the player to the middle of the arena and casts a Fireball centered on that character. 
+Full and unobstructed vision with no limitation or environment. 
+Spectators watch the combat from the stands. Critical rolls 
+(success and failure) are rewarded with potions tossed from the 
+sidelines. This arena is only one foot in radius. The stands are 
+an additional 3 inches on each side. If a player goes into the 
+stands they are attacked by the Grand Magistrates. The Grand 
+Magistrates teleports the player to the middle of the arena and 
+casts a Fireball centered on that character. 

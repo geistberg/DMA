@@ -1,0 +1,4 @@
+Everything is on fire. A magical blue flame clings to everything 
+without consuming anything. At the start of your turn you take 
+1d6 damage from the flames. All weapons are considerd magic with 
+a +1 bonus to hit and do an additional 1d4 fire damage on hit.

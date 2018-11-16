@@ -1,0 +1,16 @@
+A stench clings to your nose, your feet sink into the soft earth. 
+Rotten tree branches are sticking up out of the surface. Each step 
+you take is a risk. Whenever you try to move there is a chance 
+something will happen. Whenever you move you roll a d20, take the 
+value and times that by five. If the value of that is higher than 
+the distance moved you are fine. Otherwise, your character stops 
+at the indicated distance and rolls a d8.
+D8 Result;
+	1 - You completely submerge DC 15 strength check to escape 
+		and you are drowning escape takes a full turn.
+	2 - You are stuck up to your waist, DC 10 strength check 
+		to escape and a move action to escape.
+	3 - You are stuck up to your ankle, DC 5 Strength check 
+		to escape.
+	4 - You stop moving. If you are charging you fall prone. 
+	5+ - You complete your move as normal.

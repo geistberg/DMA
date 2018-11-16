@@ -1,1 +1,7 @@
-The monster starts on one end of the board and moves to the other side in a direct path. The monster starts off as far away from players as possible, in the event of a tie it rolls. If it senses a player it will attack the first player noticed, after that, it is based on most damage taken, currently engaged combat, or line of sight. At the start of each players turn they have to succeed on a DC12 constitution check, failure results in 1d6 damage.
+The monster starts on one end of the board and moves to the other 
+side in a direct path. The monster starts off as far away from 
+players as possible, in the event of a tie it rolls. If it senses 
+a player it will attack the first player noticed, after that, it 
+is based on most damage taken, currently engaged combat, or line 
+of sight. At the start of each players turn they have to succeed 
+on a DC12 constitution check, failure results in 1d6 damage.
